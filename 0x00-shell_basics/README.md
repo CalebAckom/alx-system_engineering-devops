@@ -15,3 +15,4 @@ ln -s ./__ls__: Create symbolic link
 cp -rua *.html ..: Copy all html files in working directory,  but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 mv [[:upper:]]* /tmp/u: Move files starting with uppercase
 rm *~: Remove emacs files
+mkdir welcome/to/school: Create directory tree
