@@ -17,3 +17,5 @@ mv [[:upper:]]* /tmp/u: Move files starting with uppercase
 rm *~: Remove emacs files
 mkdir welcome/to/school: Create directory tree
 ls -map: List all the files and directories of the current directory, separated by commas
+0 string SCHOOL School data
+!:mime School
