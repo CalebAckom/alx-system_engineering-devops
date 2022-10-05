@@ -11,3 +11,4 @@ rm -r /tmp/my_first_directory: Delete my_first_directory directory
 cd ..: Change directory to the previous directory
 ls -al . .. /boot/: List contents in current, parent of current and boot directories
 file /tmp/iamafile: Show file type
+ln -s ./__ls__: Create symbolic link
