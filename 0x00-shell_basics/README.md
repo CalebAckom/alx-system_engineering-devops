@@ -12,3 +12,4 @@ cd ..: Change directory to the previous directory
 ls -al . .. /boot/: List contents in current, parent of current and boot directories
 file /tmp/iamafile: Show file type
 ln -s ./__ls__: Create symbolic link
+cp -rua *.html ..: Copy all html files in working directory,  but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
