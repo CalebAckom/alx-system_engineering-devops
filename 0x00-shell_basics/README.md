@@ -6,3 +6,4 @@ ls -al: Display current directory contents, including hidden files, in long form
 ls -an: Display directory contents in long format with user and group IDs displayed numerically and hidden files
 mkdir /tmp/my_first_directory: Create my_first_directory directory inside tmp directory
 mv /tmp/betty /tmp/my_first_directory/: Move file betty to my_first_directory inside tmp
+rm /tmp/my_first_directory/betty: Delete betty file from /tmp/my_first_directory directory
